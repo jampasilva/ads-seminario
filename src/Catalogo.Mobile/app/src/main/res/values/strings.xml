@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catalogo</string>
+    <string name="erro_nome_invalido">Informe o nome da mercadoria</string>
+    <string name="erro_preco_invalido">O preço não é válido</string>
+    <string name="title_activity_lista">Catálogo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
