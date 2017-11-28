@@ -124,7 +124,6 @@ public class ListaActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-
     /**
      * Ocorre no momento que a atividade está para ser apresentada
      */
